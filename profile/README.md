@@ -1,4 +1,4 @@
-### AGRIS Co-operative Ltd.
+# AGRIS Co-operative Ltd.
 
 
 **[AGRIS Co-operative Ltd.](https://agris.coop/)** is a 100 per cent farmer-owned grain marketing and farm-input supply company that serves more than 1,000 farmer owners in 14 locations across southwestern Ontario.
